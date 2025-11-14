@@ -1,0 +1,3 @@
+C:/Users/HUAWEI/Desktop/homework4/CMakeFiles/calculator.dir
+C:/Users/HUAWEI/Desktop/homework4/CMakeFiles/edit_cache.dir
+C:/Users/HUAWEI/Desktop/homework4/CMakeFiles/rebuild_cache.dir
